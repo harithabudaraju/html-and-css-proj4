@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+
+}
+
+
+.navbar-container{
+
+    display: flex;
+    justify-content: space-between;
+    
+    padding: 30px 10%;
+  
+}
+
+.list{
+    display: flex;
+   
+    list-style: none;
+}
+   
+.list-item{
+    padding: 0px 20px;
+    font-family: Poppins,sans-serif;
+    color: rgb(156, 154, 154) ;
+}
+.list-item1{
+    padding: 0px 20px;
+    font-family: Poppins,sans-serif;
+    
+}
+
+
+.navbar-container img{
+    width: 105px;
+}
+
+.grow-list{
+   flex: 2;
+
+}
+.button-group{
+    margin-top: 20px;
+}
+
+.nav-button{
+    font-family: Poppins,sans-serif;
+    padding: 10px 20px;
+    background-color: rgb(106, 9, 224);
+    border: none;
+    color: white;
+    border-radius: 7px;
+}
+.banner-container{
+    display: flex;
+   margin-top: 30px;
+   margin-bottom: 30px;
+   margin-left: 10%;
+}
+
+.heading-text{
+    font-family: Poppins,sans-serif;
+    font-size: 50px;
+}
+
+span{
+    color:  rgb(106, 9, 224);
+
+}
+
+.description{
+    font-family:Poppins,sans-serif ;
+    color: rgb(156, 154, 154);
+}
+
+.btn{
+
+    margin-top: 50px;
+    padding: 20px 40px;
+}
+
